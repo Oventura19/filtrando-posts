@@ -14,7 +14,7 @@ class App extends Component {
   }
 
   handleChange(e) {
-    let actualList = [];
+    let actualList =[];
     let newList =[];
 
     actualList = this.state.everyPosts;
